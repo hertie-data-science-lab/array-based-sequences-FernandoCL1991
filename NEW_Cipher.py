@@ -2,7 +2,7 @@
 """
 Created on Mon Mar 27 23:50:37 2023
 
-@author: Danial.Riaz
+@author: Danial Riaz, Fernando Corral
 """
 
 class CaesarCipher:
